@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Imageview.*" />
+          <option value="tkinter.Tk.create_image" />
+          <option value="PIL" />
+          <option value="copy.root2" />
+          <option value="str.phone" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Innovative_things/Python_programming/Python Project/CafeBillGeneratingSystem/.idea/CafeBillGeneratingSystem.iml" filepath="D:/Innovative_things/Python_programming/Python Project/CafeBillGeneratingSystem/.idea/CafeBillGeneratingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CustomTkinter_Program/.idea/CustomTkinter_Program.iml" filepath="$PROJECT_DIR$/../CustomTkinter_Program/.idea/CustomTkinter_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Database_Connectivity/.idea/Database_Connectivity.iml" filepath="$PROJECT_DIR$/../Database_Connectivity/.idea/Database_Connectivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinalYearProject.iml" filepath="$PROJECT_DIR$/.idea/FinalYearProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Final_Year_Project_Second_Stage/.idea/Final_Year_Project_Second_Stage.iml" filepath="$PROJECT_DIR$/../Final_Year_Project_Second_Stage/.idea/Final_Year_Project_Second_Stage.iml" />
+    </modules>
+  </component>
+</project>
